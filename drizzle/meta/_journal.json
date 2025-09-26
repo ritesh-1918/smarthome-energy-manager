@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1758863787153,
+      "tag": "0000_conscious_mongu",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1758864067616,
+      "tag": "0001_flat_longshot",
+      "breakpoints": true
+    }
+  ]
+}
